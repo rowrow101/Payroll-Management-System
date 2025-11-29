@@ -1,4 +1,4 @@
-PROJECT TITLE
+## PROJECT TITLE
 Payroll Management System
 
 DESCRIPTION/OVERVIEW
@@ -139,3 +139,4 @@ Adding persistent storage would allow employee records to be saved permanently. 
 
 b. References
 https://www.youtube.com/watch?v=xk4_1vDrzzo
+
