@@ -1,7 +1,7 @@
-## PROJECT TITLE
-##Payroll Management System
+# PROJECT TITLE
+## Payroll Management System
 
-##DESCRIPTION/OVERVIEW
+## DESCRIPTION/OVERVIEW
 
 **The Payroll Management System** is a console-based Java application designed to automate and streamline the process of managing employee salary computations. It allows users to register employees, store their information, view and update employee records, and compute total salaries based on predefined rates and deductions. The system eliminates the need for manual calculations, reducing human error and improving efficiency in payroll processing. By providing a simple yet organized way to handle employee compensation, this system helps small businesses or school projects maintain accurate and reliable payroll records.
 
@@ -142,5 +142,6 @@ Adding persistent storage would allow employee records to be saved permanently. 
 
 b. References
 https://www.youtube.com/watch?v=xk4_1vDrzzo
+
 
 
