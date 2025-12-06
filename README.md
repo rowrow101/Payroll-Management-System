@@ -131,10 +131,10 @@ Thank you!
 - Lumanta, Ivan Yael D.
 
 ## Acknowledgements:
-Instructor
-Mentor
-Friends
-Students
+- Instructor
+- Mentor
+- Friends
+- Students
 
 ## Other Sections you may include:
 a. Future Enhancements
@@ -142,6 +142,7 @@ Adding persistent storage would allow employee records to be saved permanently. 
 
 b. References
 https://www.youtube.com/watch?v=xk4_1vDrzzo
+
 
 
 
